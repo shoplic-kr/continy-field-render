@@ -1700,16 +1700,16 @@
         },
         {
             "name": "shoplic-kr/wp-tests",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shoplic-kr/continy-tests.git",
-                "reference": "2dd086dd2577c9c09be31586c3336291859329f3"
+                "reference": "f6c55f5229f7d7c9d67f9c0c017afefafa4a1f12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shoplic-kr/continy-tests/zipball/2dd086dd2577c9c09be31586c3336291859329f3",
-                "reference": "2dd086dd2577c9c09be31586c3336291859329f3",
+                "url": "https://api.github.com/repos/shoplic-kr/continy-tests/zipball/f6c55f5229f7d7c9d67f9c0c017afefafa4a1f12",
+                "reference": "f6c55f5229f7d7c9d67f9c0c017afefafa4a1f12",
                 "shasum": ""
             },
             "require": {
@@ -1733,9 +1733,9 @@
             "homepage": "https://github.com/shoplic-kr/wp-tests",
             "support": {
                 "issues": "https://github.com/shoplic-kr/continy-tests/issues",
-                "source": "https://github.com/shoplic-kr/continy-tests/tree/1.0.1"
+                "source": "https://github.com/shoplic-kr/continy-tests/tree/1.0.2"
             },
-            "time": "2024-09-18T00:53:31+00:00"
+            "time": "2024-10-13T08:27:45+00:00"
         },
         {
             "name": "theseer/tokenizer",
